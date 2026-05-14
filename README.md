@@ -81,11 +81,11 @@ Stores:
 ### Login Page
 ![Login Page](screenshots/login-page.png)
 
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
 ### Stories Page
-![Stories Page](screenshots/stories-page.png)
+![Stories Page](screenshots/stories.png)
+
+### stories & activities management
+![management](screenshots/stories-management.png)
 
 ---
 
